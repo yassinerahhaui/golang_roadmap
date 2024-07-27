@@ -6,8 +6,10 @@ Download and install Go from the official Go website: https://golang.org/dl/
 
 ## Step 2: Set up your environment
 
-Set the GOPATH environment variable to a directory where you want to store your Go projects. For example, export GOPATH=$HOME/go (on Linux/macOS) or set GOPATH=%USERPROFILE%\go (on Windows).
-Add the Go bin directory to your system's PATH environment variable. For example, export PATH=$PATH:$GOPATH/bin (on Linux/macOS) or set PATH=%PATH%;%GOPATH%\bin (on Windows).
+Set the GOPATH environment variable to a directory where you want to store your Go projects. 
+For example, export GOPATH=$HOME/go (on Linux/macOS) or set GOPATH=%USERPROFILE%\go (on Windows).
+Add the Go bin directory to your system's PATH environment variable. 
+For example, export PATH=$PATH:$GOPATH/bin (on Linux/macOS) or set PATH=%PATH%;%GOPATH%\bin (on Windows).
 ## Step 3: Learn the basics
 
 Start with the official Go tour: https://tour.golang.org/
